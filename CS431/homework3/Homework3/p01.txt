@@ -1,0 +1,8 @@
+# Process #01
+100
+# first critical section
+150
+2000
+150
+500
+# End of Process #01
